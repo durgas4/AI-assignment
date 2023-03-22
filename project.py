@@ -1,7 +1,7 @@
 import openai
 import time
 ​
-openai.api_key = "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"
+openai.api_key = "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"
 ​
 # Define the prompt
 prompt = ("an unexpected visitor ")
